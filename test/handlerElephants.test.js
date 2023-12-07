@@ -20,4 +20,8 @@ describe('Testes da função HandlerElephants', () => {
   it('se retorna um numero proximo a 10.5 ao receber "averageAge" como parametro', () => {
     expect(handlerElephants('averageAge')).toBe(10.5);
   });
+
+  it('se retorna NW ao receber "location" como parametro', () => {
+    expect(handlerElephants('location')).toBe('NW');
+  });
 });
