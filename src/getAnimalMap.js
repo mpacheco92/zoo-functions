@@ -23,7 +23,7 @@ const getAnimalMap = (options) => {
   };
 
   data.species.forEach((specie) => {
-    if(!options || !options.includeNames || options.includeNames === false) {
+    if (!options || !options.includeNames || options.includeNames === false) {
       objLocations[specie.location].push(specie.name);
     } else {
       const specieObj = {};
@@ -33,7 +33,5 @@ const getAnimalMap = (options) => {
   });
   return objLocations;
 };
-
-
 
 module.exports = getAnimalMap;
