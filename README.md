@@ -6,7 +6,7 @@ E também implementei testes contribuindo para a escrita de códigos mais confi�
 
 ## Tecnologias utilizadas:
 ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-), ![image](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white), ![image](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
+) ![image](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white) ![image](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 
 ## Rodando localmente
 
