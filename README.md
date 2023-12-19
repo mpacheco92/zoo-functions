@@ -40,4 +40,8 @@ Para rodar os testes, rode o seguinte comando:
 ```bash
   npm run test
 ```
+e
 
+```bash
+  npm run lint
+```
